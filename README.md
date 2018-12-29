@@ -1,0 +1,2 @@
+# business-opportunities-analysis
+Machine Learning is widely to classify textua documents. In this project in particular, I'm interested in detecting business opportunities among news papers (written in a simple XML format). But before doing so, I would like to mine some useful informations about characterize a business opportunity (words frequency, idf, entropy...)  as well as the links between them (social mining)
